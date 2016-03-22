@@ -1,4 +1,3 @@
 /build*
 /sstate-cache
-/downloads
 /layers/pulsar
